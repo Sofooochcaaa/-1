@@ -2,3 +2,4 @@
 
 Console.WriteLine("!");
 Console.WriteLine("jjj");
+int a;
